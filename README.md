@@ -1,4 +1,4 @@
-# INSTAGRID-
+# INSTAGRID
 
 Instagrid est une application iPhone permettant aux utilisateurs de combiner des photos en choisissant parmi plusieurs 
 
